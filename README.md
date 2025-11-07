@@ -1,6 +1,6 @@
 # ZENIQ — Command Center
 
-**Founder:** Hanzala Khan  
+**Founder:** KhanDynasty 
 **Operating Model:** Digital Wealth Infrastructure & Automated Revenue Ecosystems  
 **Mission:** Build financial sovereignty at scale.
 
